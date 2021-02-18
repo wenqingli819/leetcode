@@ -1,4 +1,4 @@
-package DataStructure.String.medium;
+package string.medium;
 import java.util.*;
 /*
  * Created by babydeveloper on 1/2/21.

@@ -1,4 +1,4 @@
-package DataStructure.Map;
+package map;
 
 import java.util.LinkedHashMap;
 

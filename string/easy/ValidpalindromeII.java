@@ -1,4 +1,4 @@
-package DataStructure.String.easy;
+package string.easy;
 
 /*
  * Created by babydeveloper on 1/1/21.

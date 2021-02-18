@@ -1,4 +1,4 @@
-package DataStructure.Array;
+package array;
 
 /*
  * Created by babydeveloper on 1/8/21.

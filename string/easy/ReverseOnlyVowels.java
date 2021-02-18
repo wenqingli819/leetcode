@@ -1,4 +1,4 @@
-package DataStructure.String.easy;
+package string.easy;
 import java.util.*;
 /*
  * Created by babydeveloper on 12/29/20.
